@@ -137,7 +137,7 @@
       }
     ],
         "conferences": [
-        {
+      {
         "year": 2026,
         "title": "AURA: Agentic Unified Runtime Architecture CPU",
         "authors": "Shekhar Venkatpurwar, Vijay Pratap Sharma, Mohd Faisal Khan, Mukul Lokhande, and Santosh Kumar Vishvakarma",
@@ -147,6 +147,7 @@
         "doi": "",
         "pdf": "",
         "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=28pCwXoAAAAJ&citation_for_view=28pCwXoAAAAJ:NXb4pA-qfm4C"
+      },
       {
         "year": 2026,
         "title": "SPARV: A Small-footprint, Performance-accelerated RISC-V for TinyML Applications",
