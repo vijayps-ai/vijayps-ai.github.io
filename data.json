@@ -124,20 +124,14 @@
         "pdf": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=28pCwXoAAAAJ&citation_for_view=28pCwXoAAAAJ:Se3iqnhoufwC",
         "link": ""
       },
-      {
+         
+    ],
+        "conferences": [
+
+    
+    {
       "year": 2026,
-      "title": "Trans-precision NPU for Resource-efficient Mobile AI Acceleration",
-      "authors": "Mukul Lokhande, Vijay Pratap Sharma, S.V. Jaya Chand, Sonu Kumar, Adam Teman, and Santosh Kumar Vishvakarma",
-      "myName": "Vijay P. Sharma",
-      "venue": "Journal of Systems Architecture",
-      "date": "Aug 2026",
-      "doi": "10.1016/j.sysarc.2026.103866",
-      "pdf": "",
-      "link": "https://doi.org/10.1016/j.sysarc.2026.103866"
-      },
-      {
-      "year": 2026,
-      "title": "PRIME: A Unified Mixed-Precision Neural Processing Unit for Energy-Efficient AI acceleration",
+      "title": "PRIME: A Unified Mixed-Precision Neural Processing Unit for Energy-Efficient AI Acceleration",
       "authors": "Mohd Faisal Khan, Vijay Pratap Sharma, Mukul Lokhande, Ratko Pilipovic and Santosh Kumar Vishvakarma",
       "myName": "Vijay Pratap Sharma",
       "venue": "40th International Conference on VLSI Design and 26th International Conference on Embedded Systems (VLSI-D), Bengaluru, India",
@@ -146,9 +140,8 @@
       "pdf": "",
       "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=28pCwXoAAAAJ&citation_for_view=28pCwXoAAAAJ:XvxMoLDsR5gC",
       "status": "Accepted"
-      }
-    ],
-        "conferences": [
+    }
+          
       {
         "year": 2026,
         "title": "AURA: Agentic Unified Runtime Architecture CPU",
