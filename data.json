@@ -123,24 +123,21 @@
         "doi": "",
         "pdf": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=28pCwXoAAAAJ&citation_for_view=28pCwXoAAAAJ:Se3iqnhoufwC",
         "link": ""
-      },
-         
+      },    
     ],
         "conferences": [
-
-    
-    {
-      "year": 2026,
-      "title": "PRIME: A Unified Mixed-Precision Neural Processing Unit for Energy-Efficient AI Acceleration",
-      "authors": "Mohd Faisal Khan, Vijay Pratap Sharma, Mukul Lokhande, Ratko Pilipovic and Santosh Kumar Vishvakarma",
-      "myName": "Vijay Pratap Sharma",
-      "venue": "40th International Conference on VLSI Design and 26th International Conference on Embedded Systems (VLSI-D), Bengaluru, India",
-      "date": "Jan. 2-6, 2027",
-      "doi": "",
-      "pdf": "",
-      "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=28pCwXoAAAAJ&citation_for_view=28pCwXoAAAAJ:XvxMoLDsR5gC",
-      "status": "Accepted"
-    }
+        {
+        "year": 2026,
+        "title": "PRIME: A Unified Mixed-Precision Neural Processing Unit for Energy-Efficient AI Acceleration",
+        "authors": "Mohd Faisal Khan, Vijay Pratap Sharma, Mukul Lokhande, Ratko Pilipovic and Santosh Kumar Vishvakarma",
+        "myName": "Vijay Pratap Sharma",
+        "venue": "40th International Conference on VLSI Design and 26th International Conference on Embedded Systems (VLSI-D), Bengaluru, India",
+        "date": "Jan. 2-6, 2027",
+        "doi": "",
+        "pdf": "",
+        "link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=28pCwXoAAAAJ&citation_for_view=28pCwXoAAAAJ:XvxMoLDsR5gC",
+        "status": "Accepted"
+      }
           
       {
         "year": 2026,
