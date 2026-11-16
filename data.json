@@ -148,7 +148,7 @@
     ],
     "conferences": [
       {
-        "year": 2026,
+        "year": 2027,
         "title": "PRIME: A Unified Mixed-Precision Neural Processing Unit for Energy-Efficient AI Acceleration",
         "authors": "Mohd Faisal Khan, Vijay Pratap Sharma, Mukul Lokhande, Ratko Pilipovic and Santosh Kumar Vishvakarma",
         "myName": "Vijay Pratap Sharma",
@@ -397,7 +397,7 @@
   "activities": [],
   "experience": [
     {
-      "period": "Apr 2025 – Present",
+      "period": "Nov 2025 – Present",
       "role": "Senior Research Fellow",
       "organization": "NSDCS Lab, IIT Indore",
       "description": "Project Supervisor: Prof. Santosh Kumar Vishvakarma. Worked on hardware–software integration, FPGA deployment, peripheral interfacing, and system-level validation of the Falcon-XR platform."
